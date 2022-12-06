@@ -1,13 +1,10 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ECherik&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 
-
-
 ## About Me
 - 19
 - Computer Science student
 - Future AI developper
 - I like art and design 
-<img src="https://visitor-badge.glitch.me/badge?page_id=ECherik&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
 
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
