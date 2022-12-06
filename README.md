@@ -2,7 +2,11 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=ECherik&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
 
-
+## About Me
+- 19
+- Computer Science student
+- Future AI developper
+- I like art and design 
 
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
