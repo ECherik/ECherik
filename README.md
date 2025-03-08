@@ -1,11 +1,5 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ECherik&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 
-## About Me
-- 19
-- Computer Science student
-- Future AI developper
-- I like art and design 
-
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
